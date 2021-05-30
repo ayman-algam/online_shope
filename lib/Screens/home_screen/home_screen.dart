@@ -3,11 +3,13 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:online_shope/Screens/home_screen/components/body.dart';
 import 'package:online_shope/constants.dart';
 
+// ignore: use_key_in_widget_constructors
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: buildAppBar(),
+      backgroundColor: Colors.white,
       body: Body(),
     );
   }

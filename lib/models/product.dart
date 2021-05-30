@@ -27,7 +27,7 @@ List<Product> products = [
   Product(
       id: 2,
       title: "Belt Bag",
-      price: 234,
+      price: 230,
       size: 8,
       description: dummyText,
       image: "assets/images/bag_2.png",
@@ -43,7 +43,7 @@ List<Product> products = [
   Product(
       id: 4,
       title: "Old Fashion",
-      price: 234,
+      price: 454,
       size: 11,
       description: dummyText,
       image: "assets/images/bag_4.png",
@@ -51,7 +51,7 @@ List<Product> products = [
   Product(
       id: 5,
       title: "Office Code",
-      price: 234,
+      price: 904,
       size: 12,
       description: dummyText,
       image: "assets/images/bag_5.png",
@@ -59,7 +59,7 @@ List<Product> products = [
   Product(
     id: 6,
     title: "Office Code",
-    price: 234,
+    price: 564,
     size: 12,
     description: dummyText,
     image: "assets/images/bag_6.png",
